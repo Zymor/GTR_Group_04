@@ -1,6 +1,11 @@
 public class Team {
     // atribute ms.davy
     // constuctor mr.phanang
+    public static void main(String[] args) {
+        
+    }
+        
+    
     // method sum ms.phaleng
     public int sum(int[] input){
         int sum = 0;
