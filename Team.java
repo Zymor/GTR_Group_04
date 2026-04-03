@@ -1,5 +1,6 @@
 public class Team {
     // atribute ms.davy
+    private int[] sample = {1, 2, 3, 4, 5};
     // constuctor mr.phanang
     public static void main(String[] args) {
         
